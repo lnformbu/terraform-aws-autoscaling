@@ -138,6 +138,9 @@ aws ec2 terminate-instances --instance-ids i-00a23e3a0290ff153
 
 ![alt text](image-1.png)
 
+**Test that Apache Web server is running with our custom userdata script**
+![alt text](img/final.png)
+
 
 **run Terraform destroy command to save on cost once completed**
 
@@ -145,6 +148,4 @@ aws ec2 terminate-instances --instance-ids i-00a23e3a0290ff153
 terraform destroy --auto-approve
 ```
 ![alt text](img/des.png)
-
-
 
