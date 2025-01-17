@@ -1,6 +1,7 @@
 # Automating Infrastructure with Terraform and Auto Scaling
 
-![alt text](image.png)
+
+![alt text](img/qqq.png)
 
 ## Overview
 
